@@ -1,0 +1,20 @@
+@font-face {
+    font-family: HankenGrotest;
+    font-weight: 500;
+    src: url("./HankenGrotesk-Medium.ttf");
+    font-display: swap
+}
+
+@font-face {
+    font-family: HankenGrotest;
+    font-weight: 700;
+    src: url("./HankenGrotesk-Bold.ttf");
+    font-display: swap
+}
+
+@font-face {
+    font-family: HankenGrotest;
+    font-weight: 800;
+    src: url("./HankenGrotesk-ExtraBold.ttf");
+    font-display: swap
+}
